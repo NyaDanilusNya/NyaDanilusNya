@@ -1,5 +1,7 @@
 ### Nyaw nyaw
 
+[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,cs,lua,neovim,blender)](https://skillicons.dev)
+
 <!--
 **NyaDanilusNya/NyaDanilusNya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
